@@ -69,11 +69,6 @@
 * [Get the Tutorial Video](https://www.fiverr.com/s2/bad969ffcc)
 -->
 
-### Tutorial Video
-Part 1 | Part 2
--------|------
- [![Part1](./images/thumbnail1.png)](https://th30neand0nly.github.io/Ohm/images/part1.mp4) | [![Part2](./images/thumbnail2.png)](https://th30neand0nly.github.io/Ohm/images/part2.mp4)
-
  Credits: Linuxndroid 
 
 ---
